@@ -1,0 +1,26 @@
+.Main
+{
+  background-color:rgb(15, 15, 15);
+  font-family: Calibri;
+}
+
+.multiline
+{
+  white-space: pre-wrap;
+  font-family: Calibri;
+  color:whitesmoke;
+}
+
+.gradient
+{
+  position:fixed;
+  width:104%;
+  height:104%;
+  background:linear-gradient(rgb(8, 8, 8),rgb(27,0,0));
+  z-index:-1;
+}
+
+.dlbtn
+{
+  line-height: 0%;
+}
